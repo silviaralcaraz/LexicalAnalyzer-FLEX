@@ -15,7 +15,7 @@ A lexical analyzer for Python language using FLEX.
 
 ## Compilation
 
-1. Open a shell in the same folder that Makefile is located (probably, p2Compiladores).
+1. Open a shell in the same folder that Makefile is located (probably, LexicalAnalyzer-FLEX).
 2. Execute:
 
 		$ make
